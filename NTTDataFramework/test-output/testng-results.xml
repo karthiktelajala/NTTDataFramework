@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31854" started-at="2019-06-11T02:45:18Z" finished-at="2019-06-11T02:45:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31854" started-at="2019-06-11T02:45:18Z" finished-at="2019-06-11T02:45:50Z">
+      <class name="pageTests.LoginPage">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:pageTests.LoginPage@3cb5cdba]" name="startTest" is-config="true" duration-ms="8550" started-at="2019-06-11T08:15:18Z" finished-at="2019-06-11T08:15:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="FAIL" signature="loginWithValidCredentials()[pri:1, instance:pageTests.LoginPage@3cb5cdba]" name="loginWithValidCredentials" duration-ms="8703" started-at="2019-06-11T08:15:26Z" finished-at="2019-06-11T08:15:35Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [OrangeHRM3] but found [OrangeHRM]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [OrangeHRM3] but found [OrangeHRM]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:496)
+	at org.testng.Assert.assertEquals(Assert.java:125)
+	at org.testng.Assert.assertEquals(Assert.java:178)
+	at org.testng.Assert.assertEquals(Assert.java:188)
+	at pageTests.LoginPage.loginWithValidCredentials(LoginPage.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:261)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+	at org.testng.TestNG.run(TestNG.java:1048)
+	at org.testng.TestNG.privateMain(TestNG.java:1355)
+	at org.testng.TestNG.main(TestNG.java:1324)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:pageTests.LoginPage@3cb5cdba]" name="endTest" is-config="true" duration-ms="2408" started-at="2019-06-11T08:15:35Z" finished-at="2019-06-11T08:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:pageTests.LoginPage@3cb5cdba]" name="startTest" is-config="true" duration-ms="9182" started-at="2019-06-11T08:15:37Z" finished-at="2019-06-11T08:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="loginWithInvalidCredentials()[pri:2, instance:pageTests.LoginPage@3cb5cdba]" name="loginWithInvalidCredentials" duration-ms="2087" started-at="2019-06-11T08:15:47Z" finished-at="2019-06-11T08:15:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:pageTests.LoginPage@3cb5cdba]" name="endTest" is-config="true" duration-ms="904" started-at="2019-06-11T08:15:49Z" finished-at="2019-06-11T08:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- pageTests.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

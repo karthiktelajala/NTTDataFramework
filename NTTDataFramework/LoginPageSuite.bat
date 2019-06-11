@@ -1,0 +1,1 @@
+java -cp bin;Libraries\* org.testng.TestNG loginPageSuite.xml

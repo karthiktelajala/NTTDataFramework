@@ -1,0 +1,88 @@
+2019-23-08 09:23:47 INFO  TestBase:63 - Browser is maximized.
+2019-23-08 09:23:47 INFO  TestBase:34 - Chrome browser is launched.
+2019-23-08 09:23:50 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-23-08 09:23:56 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM
+2019-23-08 09:23:57 INFO  TestBase:77 - Browser Closed.
+2019-23-08 09:23:57 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-24-08 09:24:01 INFO  TestBase:63 - Browser is maximized.
+2019-24-08 09:24:01 INFO  TestBase:34 - Chrome browser is launched.
+2019-24-08 09:24:04 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-24-08 09:24:06 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-24-08 09:24:08 INFO  TestBase:77 - Browser Closed.
+2019-57-11 07:57:14 INFO  TestBase:63 - Browser is maximized.
+2019-57-11 07:57:14 INFO  TestBase:34 - Chrome browser is launched.
+2019-57-11 07:57:19 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-57-11 07:57:25 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM
+2019-57-11 07:57:26 INFO  TestBase:77 - Browser Closed.
+2019-57-11 07:57:26 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-57-11 07:57:30 INFO  TestBase:63 - Browser is maximized.
+2019-57-11 07:57:30 INFO  TestBase:34 - Chrome browser is launched.
+2019-57-11 07:57:34 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-57-11 07:57:36 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-57-11 07:57:37 INFO  TestBase:77 - Browser Closed.
+2019-00-11 08:00:25 INFO  TestBase:63 - Browser is maximized.
+2019-00-11 08:00:25 INFO  TestBase:34 - Chrome browser is launched.
+2019-00-11 08:00:28 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-00-11 08:00:34 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM
+2019-00-11 08:00:34 INFO  TestBase:77 - Browser Closed.
+2019-00-11 08:00:34 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-00-11 08:00:39 INFO  TestBase:63 - Browser is maximized.
+2019-00-11 08:00:39 INFO  TestBase:34 - Chrome browser is launched.
+2019-00-11 08:00:42 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-00-11 08:00:44 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-00-11 08:00:44 INFO  TestBase:77 - Browser Closed.
+2019-01-11 08:01:19 INFO  TestBase:63 - Browser is maximized.
+2019-01-11 08:01:19 INFO  TestBase:34 - Chrome browser is launched.
+2019-01-11 08:01:23 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-01-11 08:01:28 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM
+2019-01-11 08:01:29 INFO  TestBase:77 - Browser Closed.
+2019-01-11 08:01:29 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-01-11 08:01:33 INFO  TestBase:63 - Browser is maximized.
+2019-01-11 08:01:33 INFO  TestBase:34 - Chrome browser is launched.
+2019-01-11 08:01:36 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-01-11 08:01:38 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-01-11 08:01:39 INFO  TestBase:77 - Browser Closed.
+2019-11-11 08:11:08 INFO  TestBase:63 - Browser is maximized.
+2019-11-11 08:11:08 INFO  TestBase:34 - Chrome browser is launched.
+2019-11-11 08:11:12 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-11-11 08:11:18 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM
+2019-11-11 08:11:18 INFO  TestBase:77 - Browser Closed.
+2019-11-11 08:11:18 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-11-11 08:11:23 INFO  TestBase:63 - Browser is maximized.
+2019-11-11 08:11:23 INFO  TestBase:34 - Chrome browser is launched.
+2019-11-11 08:11:27 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-11-11 08:11:29 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-11-11 08:11:30 INFO  TestBase:77 - Browser Closed.
+2019-13-11 08:13:06 INFO  TestBase:63 - Browser is maximized.
+2019-13-11 08:13:06 INFO  TestBase:34 - Chrome browser is launched.
+2019-13-11 08:13:11 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-13-11 08:13:18 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM
+2019-13-11 08:13:19 INFO  TestBase:77 - Browser Closed.
+2019-13-11 08:13:19 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-13-11 08:13:23 INFO  TestBase:63 - Browser is maximized.
+2019-13-11 08:13:23 INFO  TestBase:34 - Chrome browser is launched.
+2019-13-11 08:13:27 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-13-11 08:13:29 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-13-11 08:13:31 INFO  TestBase:77 - Browser Closed.
+2019-14-11 08:14:49 INFO  TestBase:63 - Browser is maximized.
+2019-14-11 08:14:49 INFO  TestBase:34 - Chrome browser is launched.
+2019-14-11 08:14:53 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-14-11 08:14:59 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM3
+2019-15-11 08:15:00 INFO  TestBase:77 - Browser Closed.
+2019-15-11 08:15:00 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-15-11 08:15:04 INFO  TestBase:63 - Browser is maximized.
+2019-15-11 08:15:04 INFO  TestBase:34 - Chrome browser is launched.
+2019-15-11 08:15:08 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-15-11 08:15:09 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-15-11 08:15:10 INFO  TestBase:77 - Browser Closed.
+2019-15-11 08:15:23 INFO  TestBase:63 - Browser is maximized.
+2019-15-11 08:15:23 INFO  TestBase:34 - Chrome browser is launched.
+2019-15-11 08:15:26 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-15-11 08:15:35 INFO  LoginPage:44 - Comparing the actual Title - OrangeHRM wtih expected Title - OrangeHRM3
+2019-15-11 08:15:37 INFO  TestBase:77 - Browser Closed.
+2019-15-11 08:15:37 INFO  LoginPage:27 - Initializing the new Test Execution.
+2019-15-11 08:15:42 INFO  TestBase:63 - Browser is maximized.
+2019-15-11 08:15:42 INFO  TestBase:34 - Chrome browser is launched.
+2019-15-11 08:15:47 INFO  TestBase:36 - Navigated to the URL: https://opensource-demo.orangehrmlive.com/
+2019-15-11 08:15:49 INFO  LoginPage:59 - Comparing the actual Error - Invalid credentials wtih expected Error - Invalid credentials
+2019-15-11 08:15:50 INFO  TestBase:77 - Browser Closed.
